@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: aliceblue;
+}
+
+#content {
+	margin-top: 20px;
+}
+
+header {
+	height: 40px;
+	background: #7ADAFF;
+}
+
+header img {
+	width: 30px;
+	height: 30px;
+	margin: 5px;
+	float: left;
+	border: 0;
+}
+
+#header_left {
+	float: left;
+}
+
+#header_right {
+	float: right;
+	margin-right: 20px;
+}
+
+#header_right img{
+	border-radius: 30px;
+}
+
+.headicon {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	margin-left: 20px;
+}
+
+.text_img {
+	margin-left: 10px;
+	line-height: 40px;
+	vertical-align: middle;
+}

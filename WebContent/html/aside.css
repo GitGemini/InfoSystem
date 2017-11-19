@@ -1,0 +1,38 @@
+.menu_title {
+	height: 30px;
+	line-height: 30px;
+	background: #208EFF;
+}
+
+.menu_title img{
+	width: 20px;
+	height: 20px;
+	float: left;
+	margin: 5px;	
+	margin-right: 10px;
+}
+
+#left {
+	float: left;
+	width: 20%;
+	background: #EAEAEA;
+}
+
+#right {
+	float: right;
+	width: 75%;
+}
+
+#menulist {
+	list-style: none;
+}
+
+#menulist li{
+	height: 30px;
+	line-height: 30px;	
+	border-bottom: 1px solid #000;
+}
+
+#menulist li img{
+	margin-right: 10px;
+}
